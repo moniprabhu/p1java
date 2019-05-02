@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="670ed7a0-d2b8-4aa8-ac08-8f5ca92add4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$USER_HOME$/DataMungerStep1_Boilerplate/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/DataMungerStep1_Boilerplate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/CaptialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/CaptialTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/GuessingNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/GuessingNumberTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/PalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/PalindromeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/ReverseStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/ReverseStringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/VowelOrConsontantTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Java practise1/com/stackroute/p1/VowelOrConsontantTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/CaptialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/CaptialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/GuessingNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/GuessingNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/PalindromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/ReverseStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/ReverseStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/VowelOrConsontantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/p1/VowelOrConsontantTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$USER_HOME$/DataMungerStep1_Boilerplate/target/" />
