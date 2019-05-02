@@ -7,7 +7,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class GuessingNumberTest {
-    GuessingNumber guess=new GuessingNumber();
+    GuessingNumber guess;
     String str;
 
     @Before

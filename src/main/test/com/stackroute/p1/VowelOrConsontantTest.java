@@ -7,7 +7,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class VowelOrConsontantTest {
-    VowelOrConsontant vow1 =new VowelOrConsontant();
+    VowelOrConsontant vow1;
     String w1;
 
     @Before

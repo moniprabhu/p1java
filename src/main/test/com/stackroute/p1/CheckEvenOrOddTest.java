@@ -6,10 +6,12 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class CheckEvenOrOddTest {
-    CheckEvenOrOdd chk = new CheckEvenOrOdd();
+    CheckEvenOrOdd chk;
     String strCheck;
     @Before
     public void setUp() throws Exception {
+        chk = new CheckEvenOrOdd();
+
 
     }
         // Arrange
