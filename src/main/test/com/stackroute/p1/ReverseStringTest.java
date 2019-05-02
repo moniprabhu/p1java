@@ -1,24 +1,32 @@
 package com.stackroute.p1;
 
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class ReverseStringTest {
-    ReverseString r1=new ReverseString();
+    ReverseString rev=new ReverseString();
     String str;
 
     @Before
     public void setUp() throws Exception {
+        rev=new ReverseString();
 
     }
 
     @Test
     public void reverstring()throws Exception  {
 
-        str=r1.reverse("monisha");
+        str=rev.reverse("monisha");
         assertEquals("ahsinom",str);
+
+    }
+
+    @After
+    public void tearDown() throws Exception {
+        rev=null;
 
     }
 }
